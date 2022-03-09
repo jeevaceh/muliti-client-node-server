@@ -1,0 +1,24 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevaceh/muliti-client-node-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeevaceh/muliti-client-node-server/issues"
+  },
+  "homepage": "https://github.com/jeevaceh/muliti-client-node-server#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
